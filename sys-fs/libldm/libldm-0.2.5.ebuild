@@ -14,6 +14,7 @@ KEYWORDS="~x86 ~amd64"
 RESTRICT="mirror"
 DEPEND="
     dev-util/gtk-doc
+    dev-util/gtk-doc-am
     dev-libs/json-glib
 "
 
